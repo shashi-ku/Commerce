@@ -1,0 +1,77 @@
+<div class="info_pop" style="display:none;">
+	<table class="info-content" align="center" border="0" cellpadding="0" cellspacing="0" width="491">
+		<tbody>
+			<tr>
+				<td class="info-content-top" align="center" valign="top">
+					<table align="center" border="0" cellpadding="0" cellspacing="0" width="471">
+						<tbody>
+						<tr>
+							<td colspan="2" height="16"></td>
+						</tr>
+						<tr>
+							<td class="info-content_pad" align="left" height="28" valign="middle" width="404"><strong>learn about the various call rates and charges of this plan</strong></td>
+							<td class="info-content_pad" align="right" height="28" valign="middle" width="67"><a href="#pop" class="info_ok">ok</a></td>
+						</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td class="info-content-bg" align="center" valign="top">
+					<table align="center" border="0" cellpadding="0" cellspacing="0" width="471">
+						<tbody>
+							<tr>
+							<td align="center" valign="middle">
+							<table align="center" bgcolor="#d4d4d4" border="0" cellpadding="1" cellspacing="1" width="100%">
+								<tbody>
+								<tr>
+									<td class="info-content_pad" align="left" bgcolor="#FFFFFF" height="28" valign="middle" width="302">activation charges</td>
+									<td class="color333 info-content_pad" align="right" bgcolor="#FFFFFF" height="28" valign="middle" width="165">Rs 0</td>
+								  </tr>
+								  <tr>
+									<td class="info-content_pad" align="left" bgcolor="#efefef" height="28" valign="middle">security deposit</td>
+									<td class="color333 info-content_pad" align="right" bgcolor="#efefef" height="28" valign="middle">Rs250</td>
+								  </tr>
+								  <tr>
+									<td class="info-content_pad" align="left" bgcolor="#FFFFFF" height="28" valign="middle">local on network (airtel to airtel mobile)</td>
+									<td class="color333 info-content_pad" align="right" bgcolor="#FFFFFF" height="28" valign="middle">30 paisa per minute</td>
+								  </tr>
+								  <tr>
+									<td class="info-content_pad" align="left" bgcolor="#EFEFEF" height="28" valign="middle">local off network (airtel to other mobile) </td>
+									<td class="color333 info-content_pad" align="right" bgcolor="#EFEFEF" height="28" valign="middle">30 paisa per minute</td>
+								  </tr>
+								  <tr>
+									<td class="info-content_pad" align="left" bgcolor="#FFFFFF" height="28" valign="middle">local mobile / fixedline*</td>
+									<td class="color333 info-content_pad" align="right" bgcolor="#FFFFFF" height="28" valign="middle">50 paisa per minute</td>
+								  </tr>
+								  <tr>
+									<td class="info-content_pad" align="left" bgcolor="#EFEFEF" height="28" valign="middle">STD on network (airtel to airtel mobile) </td>
+									<td class="color333 info-content_pad" align="right" bgcolor="#EFEFEF" height="28" valign="middle">75 paisa per minute</td>
+								  </tr>
+								  <tr>
+									<td class="info-content_pad" align="left" bgcolor="#FFFFFF" height="28" valign="middle">STD on network (airtel to other mobile)</td>
+									<td class="color333 info-content_pad" align="right" bgcolor="#FFFFFF" height="28" valign="middle">75 paisa per minute</td>
+								  </tr>
+								  <tr>
+									<td class="info-content_pad" align="left" bgcolor="#EFEFEF" height="28" valign="middle">STD mobile / fixedline*</td>
+									<td class="color333 info-content_pad" align="right" bgcolor="#EFEFEF" height="28" valign="middle">75 paisa per minute</td>
+								  </tr>
+								</tbody>
+							</table>
+							</td>	
+							</tr>
+							<tr>
+							<td colspan="2" class="color999 info-content_pad" align="left" bgcolor="#FFFFFF" height="100" valign="middle">SMS rates for your postpaid tariff plan are Rs 1, Rs 1.5 and Rs 5 for Local, National and International SMS respectively. On plans where mentioned SMS rates are lower than these rates, lower SMS rates are applicable for non blackout days.<br>
+							  <br>
+							  Online buying of Postpaid Connection is valid only for Delhi / NCR circle.</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+			<tr>
+			<td class="info-content-bottom" align="left" valign="top">&nbsp;</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
