@@ -14,12 +14,12 @@ import com.ibm.commerce.command.TaskCommand;
 
 public interface PrePrepaidOrderItemAddTaskCmd extends TaskCommand {
 
-//default command classname
+//default 
 
 	static final String defaultCommandClassName = "com.ibm.sf.commerce.orderitems.commands.PrePrepaidOrderItemAddTaskCmdImpl";
-
+//still testing git
 	public void setIhshPrepaidCatentry_id(Hashtable<Integer, String> ihshPrepaidCatentry_id);
-	public void setIhshPrepaidCatentryField4(Hashtable<Integer, String> ihshPrepaidCatentryField4);
+	
 	public Hashtable<Integer, String> getHshOrderItemField2();
 
 }
